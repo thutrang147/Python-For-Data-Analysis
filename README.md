@@ -26,9 +26,6 @@ These notes cover:
 ## How to Use
 Each Jupyter notebook contains explanations, code examples, and outputs. The notebooks are organized by chapter, following the structure of the book.
 
-## Status
-This is an ongoing project. I will continue updating the notes as I progress through the book.
-
 ## Data Examples
 
 The examples in this repository use datasets from the original "Python for Data Analysis" book.
@@ -39,6 +36,9 @@ The examples in this repository use datasets from the original "Python for Data 
 3. Copy the necessary data files to this directory
 
 **Note**: The datasets are not included in this repository to respect copyright. Please refer to the original source.
+
+## Status
+This is an ongoing project. I will continue updating the notes as I progress through the book.
 
 ## Disclaimer
 These notes are personal study materials and not intended as a replacement for the original book. I highly recommend purchasing the official book to support the author and get the complete knowledge.
