@@ -1,3 +1,7 @@
+# Ignore all data directories
+/datasets/
+/examples/
+
 # Ignore data files
 *.csv
 *.xls
@@ -6,5 +10,9 @@
 *.db
 *.h5
 *.pickle
+*.txt
+*.html
+*.xml
+
 # Except for small sample data you create yourself
 !sample_*.csv
