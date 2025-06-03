@@ -26,19 +26,19 @@ These notes cover:
 ## How to Use
 Each Jupyter notebook contains explanations, code examples, and outputs. The notebooks are organized by chapter, following the structure of the book.
 
-# Data Examples
+## Status
+This is an ongoing project. I will continue updating the notes as I progress through the book.
+
+## Data Examples
 
 The examples in this repository use datasets from the original "Python for Data Analysis" book.
 
-## How to get the data:
+### How to get the data:
 1. Visit the official repository: https://github.com/wesm/pydata-book
 2. Download or clone the repository
 3. Copy the necessary data files to this directory
 
 **Note**: The datasets are not included in this repository to respect copyright. Please refer to the original source.
-
-## Status
-This is an ongoing project. I will continue updating the notes as I progress through the book.
 
 ## Disclaimer
 These notes are personal study materials and not intended as a replacement for the original book. I highly recommend purchasing the official book to support the author and get the complete knowledge.
