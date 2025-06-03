@@ -1,0 +1,10 @@
+# Ignore data files
+*.csv
+*.xls
+*.xlsx
+*.json
+*.db
+*.h5
+*.pickle
+# Except for small sample data you create yourself
+!sample_*.csv
